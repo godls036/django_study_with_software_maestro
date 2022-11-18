@@ -31,4 +31,10 @@ fork 하는 방법은 google링 해서 공부해보셔요 어렵지 않아요.<b
 4. python manage.py runserver (서버 실행)<br/>
 5. 과제 진행해주시면 됩니다.<br/>
 6. models.py 에 새로운 model을 정의 했으면 python manage.py makemigrations 명령을 사용해서 변경된 부분을 db에적용하는 mirations 파일을 생성해주셔야 됩니다.<br/>
-7. 그리고 python manage.py migrate 명령으로 해당 변경사항을 db에 적용 시켜주셔야되요.
+7. 그리고 python manage.py migrate 명령으로 해당 변경사항을 db에 적용 시켜주셔야되요.<br/>
+
+### 추가 설명
+runserver 명령으로 실행된 서버 호스트의 디폴트 url은 http://127.0.0.1:8000 입니다.
+제가 미리 만들어놓은 api를 호출하는 uri 는 아래와 같습니다.
+  http://127.0.0.1:8000/user/
+  
