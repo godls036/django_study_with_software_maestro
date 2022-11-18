@@ -22,7 +22,7 @@
 > http 요청이 들어오면 해당 요청을 처리하는 view를 django가 호출 합니다.<br/>
 > 이때 필요한 view를 호출할수있게 routing 해주는 모듈이 urls 모듈이구요.<br/>
 > ##### 해당 repo를 fork하셔서 1번주터 5번까지의 과제가 완료된 후 해당 repo로 pull request 요청해주시면되요.<br/>
-<br/><br/><br/>
+<br/>
 ### 아래와 같은 순서대로 과제 진행해 주시면 됩니다.
 <br/>
 fork 하는 방법은 google링 해서 공부해보셔요 어렵지 않아요.<br/>
